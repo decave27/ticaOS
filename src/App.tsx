@@ -33,10 +33,10 @@ class App extends React.Component<Props, State> {
   }
   render() {
     let style = {
-      backgroundImage: 'url(/assets/wallpaper_light.png)'
+      backgroundImage: 'url("./assets/wallpaper_light.png")'
     }
     if (this.state.dark) {
-      style.backgroundImage = 'url(/assets/wallpaper_dark.png)'
+      style.backgroundImage = 'url("./assets/wallpaper_dark.png")'
     }
     return (
       <div
