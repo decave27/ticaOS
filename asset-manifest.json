@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ticaOS/static/css/main.3b547580.chunk.css",
+    "main.js": "/ticaOS/static/js/main.347c985b.chunk.js",
+    "main.js.map": "/ticaOS/static/js/main.347c985b.chunk.js.map",
+    "runtime-main.js": "/ticaOS/static/js/runtime-main.30a35ffb.js",
+    "runtime-main.js.map": "/ticaOS/static/js/runtime-main.30a35ffb.js.map",
+    "static/js/2.037b5cfd.chunk.js": "/ticaOS/static/js/2.037b5cfd.chunk.js",
+    "static/js/2.037b5cfd.chunk.js.map": "/ticaOS/static/js/2.037b5cfd.chunk.js.map",
+    "index.html": "/ticaOS/index.html",
+    "precache-manifest.1101ea002f5c10d2cbd1f0cae144969c.js": "/ticaOS/precache-manifest.1101ea002f5c10d2cbd1f0cae144969c.js",
+    "service-worker.js": "/ticaOS/service-worker.js",
+    "static/css/main.3b547580.chunk.css.map": "/ticaOS/static/css/main.3b547580.chunk.css.map",
+    "static/js/2.037b5cfd.chunk.js.LICENSE.txt": "/ticaOS/static/js/2.037b5cfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a35ffb.js",
+    "static/js/2.037b5cfd.chunk.js",
+    "static/css/main.3b547580.chunk.css",
+    "static/js/main.347c985b.chunk.js"
+  ]
+}
